@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.4.0](https://github.com/VeryGoodOpenSource/very_good_cli/compare/v1.3.0...v1.4.0) (2026-07-27)
+
+
+### Features
+
+* add --file-reporter support to test commands ([#1640](https://github.com/VeryGoodOpenSource/very_good_cli/issues/1640)) ([20a3943](https://github.com/VeryGoodOpenSource/very_good_cli/commit/20a3943f892b8820f235ed6e24e491c41f92b53f))
+* add --get-url flag to git ls-remote for URL config overrides ([#1642](https://github.com/VeryGoodOpenSource/very_good_cli/issues/1642)) ([417b20b](https://github.com/VeryGoodOpenSource/very_good_cli/commit/417b20b645962a1ac990c0f0cb494d09006dd767))
+* **dart:** add dart config to very_good.yaml ([#1664](https://github.com/VeryGoodOpenSource/very_good_cli/issues/1664)) ([694478a](https://github.com/VeryGoodOpenSource/very_good_cli/commit/694478a4d68bfdcb65e1a026d6715b6b6541124d))
+* **packages:** add packages config to very_good.yaml ([#1663](https://github.com/VeryGoodOpenSource/very_good_cli/issues/1663)) ([a4505cf](https://github.com/VeryGoodOpenSource/very_good_cli/commit/a4505cfe2c3457e6d049e387aded8126caa29a0b))
+* **test:** add very_good.yaml for config ([#1636](https://github.com/VeryGoodOpenSource/very_good_cli/issues/1636)) ([fed3074](https://github.com/VeryGoodOpenSource/very_good_cli/commit/fed3074f2ef1b629762b85d3b862bc45bd179ade))
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/setup-node from 6 to 7 ([#1649](https://github.com/VeryGoodOpenSource/very_good_cli/issues/1649)) ([b17baef](https://github.com/VeryGoodOpenSource/very_good_cli/commit/b17baef164ae8deed34d1669b5a045f5991afae6))
+
 ## [1.3.0](https://github.com/VeryGoodOpenSource/very_good_cli/compare/v1.2.0...v1.3.0) (2026-06-23)
 
 
